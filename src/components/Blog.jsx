@@ -79,11 +79,16 @@ const Blog = () => {
 
           {/* ✅ Marquee Scrolling Text */}
           <div className="marquee">
-            <p>
+            <span>
               🌱 Grow your own food • ♻️ Reduce waste • 🌿 Green your terrace •
               🪱 Try composting today • 🌼 Sustainable Living • 🌞 Go Organic •
-              🌻 Make Earth Better • 💧 Save Water •
-            </p>
+              🌻 Make Earth Better • 💧 Save Water .
+            </span>
+            <span>
+              🌱 Grow your own food • ♻️ Reduce waste • 🌿 Green your terrace •
+              🪱 Try composting today • 🌼 Sustainable Living • 🌞 Go Organic •
+              🌻 Make Earth Better • 💧 Save Water .
+            </span>
           </div>
 
           <div className="blog-hero-buttons">
